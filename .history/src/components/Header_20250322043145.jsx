@@ -201,12 +201,10 @@ const Header = () => {
                   </li>
                 </ul>
                 <div className="pro_all">
-                  <Link to={"/product"}>
-                    <dl>
-                      <dt>모든 제품</dt>
-                      <dd>라이카 카메라 한눈에 보기</dd>
-                    </dl>
-                  </Link>
+                  <dl>
+                    <dt>모든 제품</dt>
+                    <dd>라이카 카메라 한눈에 보기</dd>
+                  </dl>
                 </div>
               </div>
             </div>
